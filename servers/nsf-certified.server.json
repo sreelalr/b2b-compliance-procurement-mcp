@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sreelalr/nsf-certified-products-gmp",
+  "title": "NSF Certified Products & cGMP",
+  "description": "Query NSF food equipment, 21 CFR 111 cGMP facilities, NSF 173 supplements & NSF 60 water data.",
+  "websiteUrl": "https://apify.com/sreelalr/nsf-certified-products-gmp",
+  "repository": {
+    "url": "https://github.com/sreelalr/b2b-compliance-procurement-mcp",
+    "source": "github"
+  },
+  "version": "0.1.4",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://sreelalr--nsf-certified-products-gmp.apify.actor/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Apify Bearer token (Bearer <APIFY_TOKEN>)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

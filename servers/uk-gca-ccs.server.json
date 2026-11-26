@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sreelalr/uk-ccs-frameworks-suppliers",
+  "title": "UK GCA & CCS Public Procurement",
+  "description": "Extract UK GCA (formerly CCS) frameworks, lot suppliers, DUNS, tender emails & CRP PDFs.",
+  "websiteUrl": "https://apify.com/sreelalr/uk-ccs-frameworks-suppliers",
+  "repository": {
+    "url": "https://github.com/sreelalr/b2b-compliance-procurement-mcp",
+    "source": "github"
+  },
+  "version": "0.1.5",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://sreelalr--uk-ccs-frameworks-suppliers.apify.actor/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Apify Bearer token (Bearer <APIFY_TOKEN>)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
