@@ -8,10 +8,10 @@ Both tools run remotely via Streamable HTTP (`mcp.apify.com`) with **zero local 
 
 ## Included Hosted MCP Servers
 
-| Server | Source Registry | Direct Apify Store & Standby MCP |
+| Server | Source Registry | Direct Apify Store & Glama Connector |
 | :--- | :--- | :--- |
-| **[NSF Certified Products & cGMP Facilities](https://apify.com/sreelalr/nsf-certified-products-gmp)** | `info.nsf.org/Certified/` | `https://mcp.apify.com/?tools=actors,sreelalr/nsf-certified-products-gmp` |
-| **[UK GCA (formerly CCS) Public Procurement](https://apify.com/sreelalr/uk-ccs-frameworks-suppliers)** | `gca.gov.uk` (`crowncommercial.gov.uk`) | `https://mcp.apify.com/?tools=actors,sreelalr/uk-ccs-frameworks-suppliers` |
+| **[NSF Certified Products & cGMP Facilities](https://apify.com/sreelalr/nsf-certified-products-gmp)** | `info.nsf.org/Certified/` | [![NSF Certified Products & cGMP MCP connector](https://glama.ai/mcp/connectors/io.github.sreelalr/nsf-certified-products-gmp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sreelalr/nsf-certified-products-gmp) |
+| **[UK GCA (formerly CCS) Public Procurement](https://apify.com/sreelalr/uk-ccs-frameworks-suppliers)** | `gca.gov.uk` (`crowncommercial.gov.uk`) | [![UK GCA & CCS Public Procurement MCP connector](https://glama.ai/mcp/connectors/io.github.sreelalr/uk-ccs-frameworks-suppliers/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sreelalr/uk-ccs-frameworks-suppliers) |
 
 ---
 
