@@ -1,0 +1,21 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "sreelalr"
+  ],
+  "name": "b2b-compliance-procurement-mcp",
+  "description": "Hosted MCP servers on Apify for NSF International product certifications & FDA cGMP facilities (info.nsf.org) and UK Government Commercial Agency (gca.gov.uk, formerly CCS) public procurement frameworks & suppliers.",
+  "type": "mcp_server",
+  "transport": [
+    "http"
+  ],
+  "keywords": [
+    "mcp-server",
+    "nsf-certified",
+    "cgmp",
+    "uk-procurement",
+    "crown-commercial-service",
+    "gca",
+    "apify"
+  ]
+}

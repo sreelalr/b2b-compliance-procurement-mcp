@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "nsf-certified": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=actors,sreelalr/nsf-certified-products-gmp"
+    },
+    "uk-public-procurement-gca": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=actors,sreelalr/uk-ccs-frameworks-suppliers"
+    }
+  }
+}

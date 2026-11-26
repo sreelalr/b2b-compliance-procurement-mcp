@@ -1,0 +1,1182 @@
+[
+  {
+    "program": "GMP",
+    "company_name": "AIDP Inc.",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Threotech LLC",
+    "product_id": "",
+    "facility_location": "Threotech LLC, Threotech LLC 19535 East Walnut Drive South, City of Industry, CA 91748",
+    "plant_city": "City of Industry",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "Threotech LLC 19535 East Walnut Drive South, City of Industry, CA 91748",
+    "phone": "626-964-6910",
+    "website_url": "http://www.aidp.com",
+    "extra_attributes": {
+      "facility_type": "Distribution Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "d5ce554af8275effbdc2b417a6e85c707531ca81113becf1db5d20f11714e27f",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Compound Solutions Inc.",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Compound Solutions Inc.",
+    "product_id": "",
+    "facility_location": "Compound Solutions Inc., 1930 Palomar Point Way, Suite 105, Carlsbad, CA 92008",
+    "plant_city": "Carlsbad",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1930 Palomar Point Way, Suite 105, Carlsbad, CA 92008",
+    "phone": "760-739-9881",
+    "website_url": "http://www.compoundsolutions.com",
+    "extra_attributes": {
+      "facility_type": "Distribution Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "f0aed44164dcd6949e4d261db98783a14102223f8a92a9a72639fb7c0ebb81cd",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Ingredients by Nature LLC",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Ingredients by Nature LLC",
+    "product_id": "",
+    "facility_location": "Ingredients by Nature LLC, 5555 Brooks Street, Montclair, CA 91763",
+    "plant_city": "Montclair",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "5555 Brooks Street, Montclair, CA 91763",
+    "phone": "909-230-6200",
+    "website_url": "http://www.ingredientsbynature.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "b721e029ec3cc4e901caf4fe9764d90ca84d00455a2242c8013971460da42b06",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Ingredients by Nature LLC",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Ingredients by Nature LLC",
+    "product_id": "",
+    "facility_location": "Ingredients by Nature LLC, 5525 Brooks Street, Montclair, CA 91763",
+    "plant_city": "Montclair",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "5525 Brooks Street, Montclair, CA 91763",
+    "phone": "909-230-6200",
+    "website_url": "http://www.ingredientsbynature.com",
+    "extra_attributes": {
+      "facility_type": "Distribution/Warehouse Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "9c710274f8991e2a074b6d217ef2d77c81834aea01786f391c2c6dc7ea39d79e",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Novotech Nutraceuticals, Inc.",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Goodyear Facility",
+    "product_id": "",
+    "facility_location": "Goodyear Facility, 1954 Goodyear Avenue, Ventura, CA 93003",
+    "plant_city": "Ventura",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1954 Goodyear Avenue, Ventura, CA 93003",
+    "phone": "805-676-1098",
+    "website_url": "http://www.novotechnutra.com",
+    "extra_attributes": {
+      "facility_type": "Distribution/Warehouse Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "bc6e6eb03e0d9a1eedec5bbd2d56761861161eab71ab045d48317a199d213193",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Novotech Nutraceuticals, Inc.",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Novotech Nutraceuticals, Inc.",
+    "product_id": "",
+    "facility_location": "Novotech Nutraceuticals, Inc., 2897 Palma Drive, Ventura, CA 93003",
+    "plant_city": "Ventura",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "2897 Palma Drive, Ventura, CA 93003",
+    "phone": "805-676-1098",
+    "website_url": "http://www.novotechnutra.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "e5669f482a29bfaaaec2998f1104f6cecdd14728d4f1d3510108c9ef3b227d0a",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Novotech Nutraceuticals, Inc.",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Goodyear Facility",
+    "product_id": "",
+    "facility_location": "Goodyear Facility, 1954 Goodyear Avenue, Ventura, CA 93003",
+    "plant_city": "Ventura",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1954 Goodyear Avenue, Ventura, CA 93003",
+    "phone": "805-676-1098",
+    "website_url": "http://www.novotechnutra.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "bc6e6eb03e0d9a1eedec5bbd2d56761861161eab71ab045d48317a199d213193",
+    "scraped_at": "2026-11-19T11:27:56.290985+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "NURA USA LLC",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "NURA USA LLC",
+    "product_id": "",
+    "facility_location": "NURA USA LLC, 2652 White Road, Irvine, CA 92614",
+    "plant_city": "Irvine",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "2652 White Road, Irvine, CA 92614",
+    "phone": "949-946-5700",
+    "website_url": "http://www.nurausa.com",
+    "extra_attributes": {
+      "facility_type": "Distribution Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "59ed533125fd90dfd1c0bddc4f48227087dfb8cb277b45d6ac85b178fe727e12",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Package All LLC",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Package All LLC",
+    "product_id": "",
+    "facility_location": "Package All LLC, 13174 Santa Ana Avenue, Fontana, CA 92337",
+    "plant_city": "Fontana",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "13174 Santa Ana Avenue, Fontana, CA 92337",
+    "phone": "631-472-7200",
+    "website_url": "http://www.packageall.com",
+    "extra_attributes": {
+      "facility_type": "Distribution Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "8c6aeb4737fbf2b2882441017b54fd5f8c361c7378b1b27d750d244989ec4eb1",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Package All LLC",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "Package All LLC",
+    "product_id": "",
+    "facility_location": "Package All LLC, 17600 Indian St, Moreno Valley, CA 92551",
+    "plant_city": "Moreno Valley",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "17600 Indian St, Moreno Valley, CA 92551",
+    "phone": "631-472-7200",
+    "website_url": "http://www.packageall.com",
+    "extra_attributes": {
+      "facility_type": "Distribution Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "a072f6e2c2d6b964d52fd025049b98b70d201a1d9ad41dbe41595e439cd6bd86",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "United Samples Inc. DBA DONGYU USI",
+    "standard": "NSF GMP Registration Program Requirements of NSF/ANSI 173, Section 8",
+    "trade_designation": "United Samples Inc - DBA DONGYU USI",
+    "product_id": "",
+    "facility_location": "United Samples Inc - DBA DONGYU USI, 14831 Franklin Avenue, Tustin, CA 92780",
+    "plant_city": "Tustin",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "14831 Franklin Avenue, Tustin, CA 92780",
+    "phone": "949-251-1768",
+    "website_url": "http://www.dongyu.us",
+    "extra_attributes": {
+      "facility_type": "Distribution Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "b8b57a6e527ef2f06f503971a9b46e82b662389b3a7b46b7322c0677099bff24",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Advanced Food Concepts, Inc. (DBA - GU Energy Labs)",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Advanced Food Concepts, Inc. (DBA - GU Energy Labs)",
+    "product_id": "",
+    "facility_location": "Advanced Food Concepts, Inc. (DBA - GU Energy Labs), 1609 4th Street, Berkeley, CA 94710",
+    "plant_city": "Berkeley",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "1609 4th Street, Berkeley, CA 94710",
+    "phone": "510-527-4664",
+    "website_url": "http://www.guenergy.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "a58fa19a1aa9ba51e47947111a5a3b825043838ab43d77da21674d7faa750854",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "ALPHA PLUS TECH, LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "ALPHA PLUS TECH, LLC",
+    "product_id": "",
+    "facility_location": "ALPHA PLUS TECH, LLC, 620 S Magnolia Avenue, Building A, Ontario, CA 91762",
+    "plant_city": "Ontario",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "620 S Magnolia Avenue, Building A, Ontario, CA 91762",
+    "phone": "949-878-5736",
+    "website_url": "",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "2193456720e1b907f0e507db26016849fb3fd3b62a0b078edd3e5bfe21dba47e",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Berkeley Nutritional Manufacturing Corporation DBA Protein Research",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Berkeley Nutritional Manufacturing Corporation DBA Protein Research",
+    "product_id": "",
+    "facility_location": "Berkeley Nutritional Manufacturing Corporation DBA Protein Research, 1852 Rutan Drive, Livermore, CA 94551",
+    "plant_city": "Livermore",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1852 Rutan Drive, Livermore, CA 94551",
+    "phone": "925-243-6300",
+    "website_url": "http://www.proteinresearch.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "e70d938e09270b54741af49e62b437ae73ebe1e966984c3511a58d1b3e55add3",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Catalo Natural Health Science, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Catalo Natural Health Science, Inc.",
+    "product_id": "",
+    "facility_location": "Catalo Natural Health Science, Inc., 2927 Lomita Boulevard, Torrance, CA 90505",
+    "plant_city": "Torrance",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "2927 Lomita Boulevard, Torrance, CA 90505",
+    "phone": "424-222-5559",
+    "website_url": "http://www.catalo.us",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "eb715a5bb04acd0d0ac8ac6a08b3bd7f8ce3a7c40fce641cee3baf5125c798c3",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "DRINKPAK,LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "DRINKPAK,LLC",
+    "product_id": "",
+    "facility_location": "DRINKPAK,LLC, 21375 Needham Ranch Parkway, Santa Clarita, CA 91321",
+    "plant_city": "Santa Clarita",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "21375 Needham Ranch Parkway, Santa Clarita, CA 91321",
+    "phone": "833-376-5725",
+    "website_url": "http://www.drink-pak.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "7c1c006a951f115b249b0f6bfa0aa1b416a0b961bd85d8668e17e2e8e6cfb71b",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Excelsior Nutrition Inc DBA 4Excelsior",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Excelsior Nutrition Inc. DBA 4Excelsior",
+    "product_id": "",
+    "facility_location": "Excelsior Nutrition Inc. DBA 4Excelsior, 1206 North Miller Street, Suite D, Anaheim, CA 92806",
+    "plant_city": "Anaheim",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1206 North Miller Street, Suite D, Anaheim, CA 92806",
+    "phone": "657-999-5188",
+    "website_url": "http://www.4excelsior.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "6684d7b061d9aa5e87472315e5bc21dfc2239d0472ee5a47874f93146abc48d2",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Excelsior Nutrition Inc DBA 4Excelsior",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Excelsior Nutrition Inc DBA 4Excelsior",
+    "product_id": "",
+    "facility_location": "Excelsior Nutrition Inc DBA 4Excelsior, 1205 North Miller Street, Anaheim, CA 92806",
+    "plant_city": "Anaheim",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1205 North Miller Street, Anaheim, CA 92806",
+    "phone": "657-999-5188",
+    "website_url": "http://www.4excelsior.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "540d9e2b32c06fd7f5172be5da84891c44831acaf404577d3e839aa59f0c280b",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Harmony Foods LLC dba SCN Bestco",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Harmony Foods LLC dba SCN Bestco",
+    "product_id": "",
+    "facility_location": "Harmony Foods LLC dba SCN Bestco, 2200 Delaware Avenue, Santa Cruz, CA 95060",
+    "plant_city": "Santa Cruz",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "2200 Delaware Avenue, Santa Cruz, CA 95060",
+    "phone": "831-457-3200",
+    "website_url": "http://www.scnbestco.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "322d69a912c99a9ca8ce0713bc15c5983fa0271abf1296749c22c27b5318ddd4",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Herbalife International of America, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Herbalife Manufacturing, LLC",
+    "product_id": "",
+    "facility_location": "Herbalife Manufacturing, LLC, Herbalife Manufacturing, LLC, 20481 Crescent Bay Drive, Lake Forest, CA 92630",
+    "plant_city": "Lake Forest",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "Herbalife Manufacturing, LLC, 20481 Crescent Bay Drive, Lake Forest, CA 92630",
+    "phone": "310-410-9600",
+    "website_url": "http://www.herbalife.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "aa68a73306ea5a2a4549d7e6c587f35f19798f196148271029545ce44826a74d",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Herbalife International of America, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Herbalife International of America, Inc.",
+    "product_id": "",
+    "facility_location": "Herbalife International of America, Inc., 25392 Commercentre Drive,, Lake Forest, CA 99263-0",
+    "plant_city": "Lake Forest",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "25392 Commercentre Drive,, Lake Forest, CA 99263-0",
+    "phone": "310-410-9600",
+    "website_url": "http://www.herbalife.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "3ba477c4bb19cfd8d1c87f91db985390322f41f25267ccfe9f152e3b4721f112",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Impossible Foods Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Impossible Foods Inc.",
+    "product_id": "",
+    "facility_location": "Impossible Foods Inc., 550 85th Avenue, Oakland, CA 94621",
+    "plant_city": "Oakland",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "550 85th Avenue, Oakland, CA 94621",
+    "phone": "650-461-4385",
+    "website_url": "http://www.impossiblefoods.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "b05e949568891cf99c1a1552204ccaa60da416206492aea6fad7187f86137a08",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Ingredients by Nature LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Ingredients by Nature LLC",
+    "product_id": "",
+    "facility_location": "Ingredients by Nature LLC, 5555 Brooks Street, Montclair, CA 91763",
+    "plant_city": "Montclair",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "5555 Brooks Street, Montclair, CA 91763",
+    "phone": "909-230-6200",
+    "website_url": "http://www.ingredientsbynature.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "0873eb2389ebfa7705865088895616446dc851d9cc1862ca74c78eec3d353167",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "InvaPharm, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "InvaPharm, Inc.",
+    "product_id": "",
+    "facility_location": "InvaPharm, Inc., 1320 West Mission Boulevard, Ontario, CA 91762",
+    "plant_city": "Ontario",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1320 West Mission Boulevard, Ontario, CA 91762",
+    "phone": "909-757-1818",
+    "website_url": "http://www.invapharm.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "4eda8c862686530d0e367c4100b94bcda7bf66664d7a5891626ca153ad2b06da",
+    "scraped_at": "2026-11-19T11:27:56.291994+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Kelker Pharma, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Kelker Pharma, Inc.",
+    "product_id": "",
+    "facility_location": "Kelker Pharma, Inc., 6955 Arlington Avenue, Riverside, CA 92503",
+    "plant_city": "Riverside",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "6955 Arlington Avenue, Riverside, CA 92503",
+    "phone": "951-394-7631",
+    "website_url": "http://www.kelkerpharma.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "bc447f99c062b223f9f7c1a62861e88dcb99071ffa73efd7f6cc7ffac04d3f57",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Kelker Pharma, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Kelker Pharma, Inc.",
+    "product_id": "",
+    "facility_location": "Kelker Pharma, Inc., 6975 Arlington Avenue, Riverside, CA 92503",
+    "plant_city": "Riverside",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "6975 Arlington Avenue, Riverside, CA 92503",
+    "phone": "951-394-7631",
+    "website_url": "http://www.kelkerpharma.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "85f9655762accf0a34a70726a3091dd5f6fea9275121870106696208380b10e4",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Kelker Pharma, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Kelker Pharma, Inc.",
+    "product_id": "",
+    "facility_location": "Kelker Pharma, Inc., 6955 Arlington Avenue, Riverside, CA 92503",
+    "plant_city": "Riverside",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "6955 Arlington Avenue, Riverside, CA 92503",
+    "phone": "951-394-7631",
+    "website_url": "http://www.kelkerpharma.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "bc447f99c062b223f9f7c1a62861e88dcb99071ffa73efd7f6cc7ffac04d3f57",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Marin Kombucha Company, LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Marin Kombucha Company Brewing Facility",
+    "product_id": "",
+    "facility_location": "Marin Kombucha Company Brewing Facility, 22 Commercial Boulevard, Suite G, Novato, CA 94949",
+    "plant_city": "Novato",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "22 Commercial Boulevard, Suite G, Novato, CA 94949",
+    "phone": "415-496-5441",
+    "website_url": "",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "6cb0bb40e73404e3eb029a556e7a2d79d50c647c2f74a09d126ba7dbbe14ecb6",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Natural Alternatives International",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Natural Alternatives International",
+    "product_id": "",
+    "facility_location": "Natural Alternatives International, 1215 Park Center Drive, Vista, CA 92081",
+    "plant_city": "Vista",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "1215 Park Center Drive, Vista, CA 92081",
+    "phone": "760-744-7340",
+    "website_url": "http://www.nai-online.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "e642015e7a7c0e9c4b18522ebaa056932206aa9463f97769a21de85f51465b6b",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Natural Alternatives International",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Natural Alternatives International",
+    "product_id": "",
+    "facility_location": "Natural Alternatives International, 1211 Park Center Drive, Vista, CA 92081",
+    "plant_city": "Vista",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "1211 Park Center Drive, Vista, CA 92081",
+    "phone": "760-744-7340",
+    "website_url": "http://www.nai-online.com",
+    "extra_attributes": {
+      "facility_type": "Packaging Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "d2072d15ba8bca6f12cd5f2cc2ae842bd8f934c77a889f859c341aae9cb4d818",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories",
+    "product_id": "",
+    "facility_location": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories, 20433 Earl Street, Torrance, CA 90503",
+    "plant_city": "Torrance",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "20433 Earl Street, Torrance, CA 90503",
+    "phone": "310-370-1563",
+    "website_url": "http://www.paragonlabsusa.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "664d2768d2cdb8da8e285c450e52f25b98bd4eb777b574af6438286fe65a8692",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories",
+    "product_id": "",
+    "facility_location": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories, 4221 Spencer Street, Torrance, CA 90503",
+    "plant_city": "Torrance",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "4221 Spencer Street, Torrance, CA 90503",
+    "phone": "310-370-1563",
+    "website_url": "http://www.paragonlabsusa.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "9cc59db8c14218a078f8978a3192dda6f7e0b2bbb2b8f73ea0316f3c357a938b",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories",
+    "product_id": "",
+    "facility_location": "Naturalife Eco Vite Labs., Inc. DBA Paragon Laboratories, 19705 Mariner Avenue, Torrance, CA 90503",
+    "plant_city": "Torrance",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "19705 Mariner Avenue, Torrance, CA 90503",
+    "phone": "310-370-1563",
+    "website_url": "http://www.paragonlabsusa.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "b3c32b76e13a49ea82a0ed28515fe35e4ad698d4cad127db5b4c09de5d92ccae",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Nellson Nutraceutical, LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Nellson Nutraceutical, LLC (Anaheim)",
+    "product_id": "",
+    "facility_location": "Nellson Nutraceutical, LLC (Anaheim), 5115 East La Palma Avenue, Anaheim, CA 92807",
+    "plant_city": "Anaheim",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "5115 East La Palma Avenue, Anaheim, CA 92807",
+    "phone": "626-812-6522",
+    "website_url": "http://www.nellsonllc.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "2fb3cf6e18bfadd7cee85d1a8ba22bf3f2f5f7251c4c8c1d1ecedcab5241228c",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Nordic Naturals, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Nordic Naturals Mfg., Inc.",
+    "product_id": "",
+    "facility_location": "Nordic Naturals Mfg., Inc., 2390 Oak Ridge Way, Vista, CA 92081",
+    "plant_city": "Vista",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "2390 Oak Ridge Way, Vista, CA 92081",
+    "phone": "760-431-7509",
+    "website_url": "",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "032bd803378f8f0634fed9c1b895cf0c52037f8b587c745c7801dbc845a7fa0f",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Pro-Form Laboratories",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Pro-Form Laboratories",
+    "product_id": "",
+    "facility_location": "Pro-Form Laboratories, 5001 Industrial Way, Benicia, CA 94510",
+    "plant_city": "Benicia",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "5001 Industrial Way, Benicia, CA 94510",
+    "phone": "707-752-9010",
+    "website_url": "http://www.proformlabs.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "3fd9e3e55e4fcc38628a3e9d9459ff19f25a5160827fcb9b8db0097853df1bf7",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "PureTek Corporation",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "PureTek Corporation",
+    "product_id": "",
+    "facility_location": "PureTek Corporation, 7900 Nelson Road, Unit A, Panorama City, CA 91402",
+    "plant_city": "Panorama City",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "7900 Nelson Road, Unit A, Panorama City, CA 91402",
+    "phone": "818-837-5880",
+    "website_url": "http://https://puretekcorp.com",
+    "extra_attributes": {
+      "facility_type": "Packaging Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "494be4508a20ea5a9fcb7f21aa7854986862b062e8a4be1afbfaf6d9487d2e5e",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "PureTek Corporation",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "PureTek Corporation",
+    "product_id": "",
+    "facility_location": "PureTek Corporation, 1145 Unit-D Arroyo Avenue, San Fernando, CA 91340",
+    "plant_city": "San Fernando",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1145 Unit-D Arroyo Avenue, San Fernando, CA 91340",
+    "phone": "818-837-5880",
+    "website_url": "http://https://puretekcorp.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "ad5956637bf5f8e13ea85af2c2c3f9eaef00bc59685139c10c01e1b72d8c2e14",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Refresco Beverages US Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Refresco Beverages US Inc.",
+    "product_id": "",
+    "facility_location": "Refresco Beverages US Inc., 400 Hosmer Ave, Modesto, CA 95351",
+    "plant_city": "Modesto",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "400 Hosmer Ave, Modesto, CA 95351",
+    "phone": "352-567-2200",
+    "website_url": "http://www.refresco.com/en/",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "4e1c8d7459a891eb8aa60e3a699764189fa207b029b88b133d96e464f9725ddd",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Refresco Beverages US Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Refresco Beverages US Inc.",
+    "product_id": "",
+    "facility_location": "Refresco Beverages US Inc., 215 Hosmer Ave, Modesto, CA 95351",
+    "plant_city": "Modesto",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "215 Hosmer Ave, Modesto, CA 95351",
+    "phone": "352-567-2200",
+    "website_url": "http://www.refresco.com/en/",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "e8fabeae1d0d4fe4f3d6b897d6ebb3724e618d2aa6fd4f5d12493dcb970e0761",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Sirio Nutrition (California) LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Sirio Nutrition (California) LLC",
+    "product_id": "",
+    "facility_location": "Sirio Nutrition (California) LLC, 17758 Rowland Street, City of Industry, CA 91748",
+    "plant_city": "City of Industry",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "17758 Rowland Street, City of Industry, CA 91748",
+    "phone": "626-912-9998",
+    "website_url": "http://www.bestformulations.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "9ff0081504aa8ad9b0c44f35751f0a069b12123e4306338584c05f6e761d0a0b",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Sirio Nutrition (California) LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Sirio Nutrition (California) LLC",
+    "product_id": "",
+    "facility_location": "Sirio Nutrition (California) LLC, 938 Radecki Court, City of Industry, CA 91748",
+    "plant_city": "City of Industry",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "938 Radecki Court, City of Industry, CA 91748",
+    "phone": "626-912-9998",
+    "website_url": "http://www.bestformulations.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "ac616b6f1b9e444dd584cec85a6c66ded40b142f00e0b18bb0d038a4ff23ac75",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Sirio Nutrition (California) LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Sirio Nutrition (California) LLC",
+    "product_id": "",
+    "facility_location": "Sirio Nutrition (California) LLC, 17775 Rowland Street, City of Industry, CA 91748",
+    "plant_city": "City of Industry",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "17775 Rowland Street, City of Industry, CA 91748",
+    "phone": "626-912-9998",
+    "website_url": "http://www.bestformulations.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "08ea72ce82fcc722079585f7c518583cdd9eadaedc0ebb4ed52b730e1b0f9301",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "SK Laboratories Inc",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "SK Laboratories Inc",
+    "product_id": "",
+    "facility_location": "SK Laboratories Inc, 5420 East La Palma Avenue, Anaheim, CA 92807",
+    "plant_city": "Anaheim",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "5420 East La Palma Avenue, Anaheim, CA 92807",
+    "phone": "714-695-9800",
+    "website_url": "http://www.sklabs.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "8cba32bfc44e62c148157cc24c0e8d41572eb7c50b995fe5a3922eea65100196",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Soft Gel Technologies, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Soft Gel Technologies, Inc.",
+    "product_id": "",
+    "facility_location": "Soft Gel Technologies, Inc., 6982 Bandini Boulevard, Los Angeles, CA 90040",
+    "plant_city": "Los Angeles",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "6982 Bandini Boulevard, Los Angeles, CA 90040",
+    "phone": "323-726-0700",
+    "website_url": "http://www.soft-gel.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "e1dbb07dd0186828c7293526b79e850dd9d0adf49c6c78bd611cb5dc5b4b3648",
+    "scraped_at": "2026-11-19T11:27:56.293006+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Triple 5 Nutrition, LLC.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Triple 5 Nutrition, LLC.",
+    "product_id": "",
+    "facility_location": "Triple 5 Nutrition, LLC., 17120 S. Figueroa Street, Unit B, Gardena, CA 90248",
+    "plant_city": "Gardena",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "17120 S. Figueroa Street, Unit B, Gardena, CA 90248",
+    "phone": "310-356-9018",
+    "website_url": "",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "914f57558c13271ac24be821ba7cccbc2875661febc8105fd608da520ddda105",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Uni-Caps, LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Uni-Caps, LLC",
+    "product_id": "",
+    "facility_location": "Uni-Caps, LLC, 540 West Lambert Road, Brea, CA 92821",
+    "plant_city": "Brea",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "540 West Lambert Road, Brea, CA 92821",
+    "phone": "714-529-8400",
+    "website_url": "http://www.unicapsllc.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "4e9fadbebc0034bfbbd23c08dfd9db2a81948762fbc992963bb239b1a9b9a2b9",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "United Pharma LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "United Pharma LLC",
+    "product_id": "",
+    "facility_location": "United Pharma LLC, 2317 Moore Avenue, Fullerton, CA 92833",
+    "plant_city": "Fullerton",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "2317 Moore Avenue, Fullerton, CA 92833",
+    "phone": "714-738-8999",
+    "website_url": "http://www.unitedpharmallc.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "6d4cf9b9f24e7865f82b56d5d2d1401a9b737c31e922c8573ffc806c01b9ce45",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "United Pharma LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "United Pharma LLC",
+    "product_id": "",
+    "facility_location": "United Pharma LLC, 2307 Moore Avenue, Fullerton, CA 92833",
+    "plant_city": "Fullerton",
+    "plant_state": "CA",
+    "plant_country": "",
+    "address": "2307 Moore Avenue, Fullerton, CA 92833",
+    "phone": "714-738-8999",
+    "website_url": "http://www.unitedpharmallc.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "d4f2c1f2f719a9a379d7a48a11799b98c8805e5de1d50076992561c331517c58",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "We Pack It All, LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "WePackItAll",
+    "product_id": "",
+    "facility_location": "WePackItAll, 2745 Huntington Drive, Duarte, CA 91010",
+    "plant_city": "Duarte",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "2745 Huntington Drive, Duarte, CA 91010",
+    "phone": "626-301-9214",
+    "website_url": "http://www.wepackitall.com",
+    "extra_attributes": {
+      "facility_type": "Packaging Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "99a009686b1abea186c204f460c492a69ec9002cade30f52775c81f6a7ff376e",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "We Pack It All, LLC",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "WePackItAll",
+    "product_id": "",
+    "facility_location": "WePackItAll, 16100 Foothill Blvd., Irwindale, CA 91702",
+    "plant_city": "Irwindale",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "16100 Foothill Blvd., Irwindale, CA 91702",
+    "phone": "626-301-9214",
+    "website_url": "http://www.wepackitall.com",
+    "extra_attributes": {
+      "facility_type": "Packaging Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "9347cbabedc76afdece6ed9d8cf282593dd8dfc37e06bbe5a248c72481c46eb0",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Wellington Foods, Incorporated",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Wellington Foods, Incorporated",
+    "product_id": "",
+    "facility_location": "Wellington Foods, Incorporated, 1241 Old Temescal Road, #103, Corona, CA 92881",
+    "plant_city": "Corona",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1241 Old Temescal Road, #103, Corona, CA 92881",
+    "phone": "951-547-7000",
+    "website_url": "http://www.wellingtonfoods.com",
+    "extra_attributes": {
+      "facility_type": "Distribution/Warehouse Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "3fbaf4626e4663e1e2c86f4ffd03cba4070f625d36b159f353a8d0cc1a83dc5e",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Wellington Foods, Incorporated",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Wellington Foods, Incorporated",
+    "product_id": "",
+    "facility_location": "Wellington Foods, Incorporated, 1930 California Avenue, Corona, CA 92881",
+    "plant_city": "Corona",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "1930 California Avenue, Corona, CA 92881",
+    "phone": "951-547-7000",
+    "website_url": "http://www.wellingtonfoods.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "5e4d216f4aace1a4e45d1219444bd72e929c16aca712522c8b2f82cfa2b8d768",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "Wellnes Holding LLC dba Aura Sciences",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "Wellnes Holding LLC dba Aura Sciences",
+    "product_id": "",
+    "facility_location": "Wellnes Holding LLC dba Aura Sciences, 3390 Horseless Carriage Drive, Norco, CA 92860",
+    "plant_city": "Norco",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "3390 Horseless Carriage Drive, Norco, CA 92860",
+    "phone": "951-951-2872",
+    "website_url": "",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "d8cb0ce6c84ab75a70ec96c66aee16f21bbc24d4b1c4e27dc826b838e763b875",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "West Coast Naturals",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "West Coast Naturals",
+    "product_id": "",
+    "facility_location": "West Coast Naturals, 4585 Firestone Boulevard, South Gate, CA 90280",
+    "plant_city": "South Gate",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "4585 Firestone Boulevard, South Gate, CA 90280",
+    "phone": "323-763-2929",
+    "website_url": "http://wcnfoods.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "2eba01b7516135ead660063f4be1b45c007a41f44678eaea73d1c4e887ccb90f",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "White Bottle, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "White Bottle, Inc.",
+    "product_id": "",
+    "facility_location": "White Bottle, Inc., 10559 Dale Avenue, Stanton, CA 90680",
+    "plant_city": "Stanton",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "10559 Dale Avenue, Stanton, CA 90680",
+    "phone": "800-570-8840",
+    "website_url": "http://www.whitebottle.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "3f421c4da98b105bee368dc36de0b9ce5208cf2efe2ca46e5c893abd7cc5cbec",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "White Bottle, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "White Bottle, Inc.",
+    "product_id": "",
+    "facility_location": "White Bottle, Inc., 10555 Dale Avenue, Stanton, CA 90690",
+    "plant_city": "Stanton",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "10555 Dale Avenue, Stanton, CA 90690",
+    "phone": "800-570-8840",
+    "website_url": "http://www.whitebottle.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "eb2c961fa0c0dff9d9d31252150277553aa26fa08aa82ebaefe564ad2d4c5aae",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "White Bottle, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "White Bottle, Inc.",
+    "product_id": "",
+    "facility_location": "White Bottle, Inc., 10579 Dale Avenue, Stanton, CA 90680",
+    "plant_city": "Stanton",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "10579 Dale Avenue, Stanton, CA 90680",
+    "phone": "800-570-8840",
+    "website_url": "http://www.whitebottle.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "128c2eb4de3edab7fe882a54b9eef88a75c5e8b68598167e953a354099010336",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  },
+  {
+    "program": "GMP",
+    "company_name": "White Bottle, Inc.",
+    "standard": "NSF 306, Section 6",
+    "trade_designation": "White Bottle, Inc.",
+    "product_id": "",
+    "facility_location": "White Bottle, Inc., 10559 Dale Avenue, Stanton, CA 90680",
+    "plant_city": "Stanton",
+    "plant_state": "CA",
+    "plant_country": "United States",
+    "address": "10559 Dale Avenue, Stanton, CA 90680",
+    "phone": "800-570-8840",
+    "website_url": "http://www.whitebottle.com",
+    "extra_attributes": {
+      "facility_type": "Manufacturing Facility"
+    },
+    "source_url": "https://info.nsf.org/Certified/GMP/Listings.asp?PlantState=CA",
+    "record_hash": "3f421c4da98b105bee368dc36de0b9ce5208cf2efe2ca46e5c893abd7cc5cbec",
+    "scraped_at": "2026-11-19T11:27:56.293993+00:00"
+  }
+]
